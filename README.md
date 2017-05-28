@@ -29,4 +29,5 @@ $ mvn spring-boot:run
 
 ## Demo
 
-For demonstration of functionality go to swagger page [http://localhost:8080/swagger-ui.html] (http://localhost:8080/swagger-ui.html)
+For demonstration of functionality go to swagger page
+* [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
